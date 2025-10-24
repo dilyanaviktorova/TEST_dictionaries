@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\dilqn\\onedrive\\desktop\\softuni\\dictionarylambdalinqtest\\testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{907B7753-DD15-433C-B66D-F050F45C4599}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\plantstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\dilqn\\onedrive\\desktop\\softuni\\dictionarylambdalinqtest\\testapp\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\dilqn\\onedrive\\desktop\\softuni\\dictionarylambdalinqtest\\testapp\\oddoccurrences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\oddoccurrences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|c:\\users\\dilqn\\onedrive\\desktop\\softuni\\dictionarylambdalinqtest\\testapp\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08B6BA-3319-4057-BB71-A04546D789AB}|TestApp\\TestApp.csproj|solutionrelative:testapp\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plants.cs",
+              "DocumentMoniker": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp\\Plants.cs",
+              "RelativeDocumentMoniker": "TestApp\\Plants.cs",
+              "ToolTip": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp\\Plants.cs",
+              "RelativeToolTip": "TestApp\\Plants.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:27:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantsTests.cs",
+              "DocumentMoniker": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PlantsTests.cs",
+              "ToolTip": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp.Tests\\PlantsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PlantsTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:26:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "977687aa-61dc-4c55-b6e3-682bb03f3f56",
+        "Display": 0,
+        "X": 1,
+        "Y": 1,
+        "Width": 1534,
+        "Height": 910,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp\\Miner.cs",
+              "RelativeDocumentMoniker": "TestApp\\Miner.cs",
+              "ToolTip": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp\\Miner.cs",
+              "RelativeToolTip": "TestApp\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:06:01.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5890bde6-931f-4cd5-8d42-9f2a1c19c6b4",
+        "Display": 0,
+        "X": 1,
+        "Y": 1,
+        "Width": 1534,
+        "Height": 910,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OddOccurrences.cs",
+              "DocumentMoniker": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp\\OddOccurrences.cs",
+              "RelativeDocumentMoniker": "TestApp\\OddOccurrences.cs",
+              "ToolTip": "C:\\Users\\dilqn\\OneDrive\\Desktop\\SoftUni\\DictionaryLambdaLinqTEST\\TestApp\\OddOccurrences.cs",
+              "RelativeToolTip": "TestApp\\OddOccurrences.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:26:25.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
